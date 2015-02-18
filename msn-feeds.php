@@ -2,7 +2,7 @@
 /*
 Plugin Name: MSN feeds
 Description: Creates feeds for MSN network.
-Version: 0.1
+Version: 0.2
 Author: Domenico Citrangulo
 */
 
